@@ -1,5 +1,5 @@
 🤖 AI-Powered Financial News Sentiment Analyzer
-Live Demo: [Link to your deployed Streamlit App will go here]
+Live Demo: [https://ai-sentiment-analyzer-zx86kiguiefcv9fzxyhen9.streamlit.app/]
 
 🚀 Overview
 This web application provides real-time sentiment analysis for financial news related to any stock ticker. It was built to demonstrate skills in Python, AI/ML model integration, API usage, and modern web app development. The app fetches the latest news headlines and uses a sophisticated AI model (FinBERT), specifically trained on financial text, to score each headline as positive, negative, or neutral.
