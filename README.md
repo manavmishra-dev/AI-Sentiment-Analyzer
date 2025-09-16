@@ -31,24 +31,24 @@ APIs: NewsAPI
 ⚙️ How to Run Locally
 1. Clone the repository:
 
-git clone [https://github.com/manavmishra-dev/AI-Sentiment-Analyzer.git](https://github.com/manavmishra-dev/AI-Sentiment-Analyzer.git)
+   git clone [https://github.com/manavmishra-dev/AI-Sentiment-Analyzer.git](https://github.com/manavmishra-dev/AI-Sentiment-Analyzer.git)
 
 2. Navigate to the directory:
 
-cd AI-Sentiment-Analyzer
+   cd AI-Sentiment-Analyzer
 
 3. Install dependencies:
 
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4. Create your secrets file:
 
-Create a folder: .streamlit
+   Create a folder: .streamlit
 
-Inside it, create a file: secrets.toml
+   Inside it, create a file: secrets.toml
 
-Add your API key: NEWS_API_KEY = "YOUR_KEY_HERE"
+   Add your API key: NEWS_API_KEY = "YOUR_KEY_HERE"
 
 5. Run the Streamlit app:
 
-streamlit run app.py
+   streamlit run app.py
