@@ -1,23 +1,34 @@
-Security Policy
-Supported Versions
-This is a portfolio project and does not have a formal versioning or support schedule. The latest version in the main branch is considered the most current.
+# 🛡️ Security Policy for AI-Sentiment-Analyzer
 
-Reporting a Vulnerability
-I take security very seriously. If you discover a security vulnerability within this project, I appreciate your help in disclosing it to me in a responsible manner.
+## Our Commitment to Security
+As the creator of this project, I am committed to ensuring the **security and integrity** of this software. I value the work of security researchers and believe that **responsible disclosure** is the best way to address potential vulnerabilities.
 
-Please do not open a public issue or pull request.
+---
 
-Instead, please use GitHub's private vulnerability reporting feature.
+## Versions & Support
+This is a **portfolio project** and does not have a formal versioning or support schedule. The **latest version in the main branch** is considered the most current and is the only version supported.
 
-How to Submit a Report
-Navigate to the main page of the repository.
+| Version | Supported |
+|---------|-----------|
+| `main`  | ✅        |
 
-Under the repository name, click on the "Security" tab.
+---
 
-In the left sidebar, click on "Report a vulnerability".
+## 🚨 Reporting a Vulnerability
+I take all security reports seriously. If you discover a security vulnerability, I appreciate your help in disclosing it responsibly.
 
-Fill out the form with the details of the vulnerability.
+> **Important:** Please **do not** open a public issue or pull request to report a security issue.
 
-This will send a private report directly to me. I will do my best to respond to your report within 48 hours and will keep you updated on the progress of any fixes.
+Instead, use **GitHub's private vulnerability reporting feature**. This ensures the vulnerability is **not publicly disclosed** until a fix is in place.
 
-Thank you for helping to keep this project safe.
+### How to Submit a Private Report
+1. Navigate to the **main page** of this repository.
+2. Click on the **"Security"** tab.
+3. In the left sidebar, click on **"Report a vulnerability"**.
+4. Fill out the form with a detailed description of the vulnerability, including **steps to reproduce** if possible.
+
+This will send a **private, encrypted report** directly to me. I will do my best to provide an **initial response within 48 hours** and will keep you updated on the progress of any patches.
+
+---
+
+Thank you for helping to keep this project **secure**. 🙏
